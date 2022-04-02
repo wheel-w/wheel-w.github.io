@@ -101,7 +101,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wheel-w/wheel-w.github.io.git
+  repo: git@github.com:wheel-w/wheel-w.github.io.git
   branch: delopy
 
 # theme custom setting
