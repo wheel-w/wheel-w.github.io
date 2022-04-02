@@ -102,7 +102,7 @@ theme: hexo-theme-matery
 deploy:
   type: git
   repo: https://github.com/wheel-w/wheel-w.github.io.git
-  branch: gh-pages
+  branch: delopy
 
 # theme custom setting
 search:
